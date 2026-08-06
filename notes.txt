@@ -1,1 +1,2 @@
 This project is used to learn Git and GitHub step by step.
+Git tracks changes between project versions.
