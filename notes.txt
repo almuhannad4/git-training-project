@@ -1,2 +1,4 @@
 This project is used to learn Git and GitHub step by step.
 Git tracks changes between project versions.
+Git stores the complete history of the project.
+Git can track staged and unstaged changes separately.
