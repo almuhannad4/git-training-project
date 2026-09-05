@@ -5,4 +5,4 @@ Git can track staged and unstaged changes separately.
 
 Feature Login Branch
 === FEATURE LOGIN VERSION ===
-Rebase conflict - main version
+Rebase abort test - main version
